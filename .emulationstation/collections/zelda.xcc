@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<filter name="zelda">
+	<system>gba</system>
+	<system>n64</system>
+	<system>snes</system>
+	<system>nes</system>
+	<system>gb</system>
+</filter>
