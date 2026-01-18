@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+	<game>
+        <gameid>1</gameid>
+        <path>./MegaMan Zero I (BR).zip</path>
+        <image>./images/MegaMan Zero I (BR).png</image>
+		<video_id>7</video_id>
+		<class_type>7</class_type>
+		<game_type>0</game_type>
+        <timer>gba</timer>
+		<zh_CN>1 Mega Man Zero I (BR)</zh_CN>
+		<en_US>1 Mega Man Zero I (BR)</en_US>
+		<zh_TW>1 Mega Man Zero I (BR)</zh_TW>
+		<ko_KR>1 Mega Man Zero I (BR)</ko_KR>
+        <name>1 Mega Man Zero I (BR)</name>
+    </game>
+	<game>
+		<gameid>2359</gameid>
+		<path>./007 - Everything or Nothing (USAEurope) (En Fr De).zip</path>
+		<image>./images/007 - Everything or Nothing (USAEurope) (En Fr De).png</image>
+		<video_id>7</video_id>
+		<class_type>7</class_type>
+		<game_type>0</game_type>
+		<timer>gba</timer>
+		<zh_CN>02359  007 - Everything or Nothing (USAEurope) (En Fr De)</zh_CN>
+		<en_US>02359  007 - Everything or Nothing (USAEurope) (En Fr De)</en_US>
+		<zh_TW>02359  007 - Everything or Nothing (USAEurope) (En Fr De)</zh_TW>
+		<ko_KR>02359  007 - Everything or Nothing (USAEurope) (En Fr De)</ko_KR>
+		<name>02359  007  Everything or Nothing USAEurope En Fr De</name>
+	</game>
+	</gameList>
