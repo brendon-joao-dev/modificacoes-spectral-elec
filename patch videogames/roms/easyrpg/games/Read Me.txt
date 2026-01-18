@@ -1,0 +1,3 @@
+EN: put the folders of your unzipped games here
+PT-BR: coloque as pastas de seus jogos descompactados aqui
+ES: pon aquí las carpetas de tus juegos descomprimidos
