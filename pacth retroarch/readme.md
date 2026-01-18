@@ -1,9 +1,19 @@
-# Pastas:
+# O que o patch faz?
+
+Esse patch altera alguns arquivos do retroarch fazendo o spectral elec armazenar os arquivos de salvamentos dos jogos, savestates e prints em pastas separadas das roms. Além de também configurar alguns atalhos para facilitar a jogabilidade no console e facilitar a vida dos player.
+
+# Como aplicar?
+
+Basta copiar o conteúdo dessa pasta e colar no cartão de memória onde está seu spectral elec e se divertir!
+
+# Mudanças
+
+## Pastas:
 Saves - Para salvamentos de jogos
 Savestates - Para salvamentos do emulador (savestate)
 Screenshots - Para prints
 
-# Atalhos:
+## Atalhos:
 Botão para atalhos: L2
 Botão para reiniciar o jogo: R2
 Botão para pausar: Select
@@ -15,7 +25,7 @@ Botão para tirar print: A
 Botão para acelerar o emulador: B
 Botão para acelerar o emulador segurando (fast forward): Start
 
-# Se quiser mudar algum atalho basta mudar o valor entre aspas na frente dele em ambos os arquivos gbx66.cfg e w10.cfg
+## *Se quiser mudar algum atalho basta mudar o valor entre aspas na frente dele em ambos os arquivos gbx66.cfg e w10.cfg*
 
 ## Sendo as funções e suas variáveis:
 - Botão de atalho - input_enable_hotkey_btn
